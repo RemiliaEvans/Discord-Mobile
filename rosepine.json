@@ -247,7 +247,7 @@
     },
     "background": {
         "alpha": 5,
-        "url": "https://github.com/RemiliaEvans/Discord-Mobile/blob/main/Assets/BackgroundStars.png?raw=true"
+        "url": "https://raw.githubusercontent.com/RemiliaEvans/Discord-Mobile/refs/heads/main/Assets/BackgroundStars.png"
     },
     "plus": {
         "version": "0",
